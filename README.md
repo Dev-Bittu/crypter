@@ -62,7 +62,8 @@ pip install -r requirements.txt
 
 ---
 
-# License                                         Copyright © Dev-Bittu All rights reserved.
+# License
+Copyright © Dev-Bittu All rights reserved.
 Licensed under the MIT License. See [LICENSE](LICENSE "Lincense file") in the project root for license information.
 
 ---
