@@ -37,7 +37,7 @@ python brute_force.py --help
 
 ### Prerequisites
   1. python module
-    - argparse
+      - argparse
 
 ### Setup
 ```bash
