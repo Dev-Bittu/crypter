@@ -48,24 +48,22 @@ pip install -r requirements.txt
 
 ---
 
-# Authers
-
-  1. Bittu [Dev-Bittu](https://github.com/Dev-Bittu "Dev-Bittu")
-
----
-
-# License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE "Lincense file") file for details.
-
----
-
 # TODO
   1. Add new ciphers.
   2. Improve functionality.
   3. Enhance programm to use less memory.
   4. Improve documentation.
   5. Add README in every cipher.
+
+---
+
+# Authers
+  1. Bittu [Dev-Bittu](https://github.com/Dev-Bittu "Dev-Bittu")
+
+---
+
+# License                                         Copyright © Dev-Bittu All rights reserved.
+Licensed under the MIT License. See [LICENSE](LICENSE "Lincense file") in the project root for license information.
 
 ---
 
