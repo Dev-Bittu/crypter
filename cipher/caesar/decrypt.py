@@ -1,17 +1,17 @@
 import argparse
 
 """
-Cipher text decrypter using Caesar cipher.
+Decrypte cipher text for Caesar cipher.
 
 Example:
-    Command: python decrypt.py -t cjuuv -k 1
+    Command: python decrypt.py -c cjuuv -k 1
     Output: bittu
 """
 
 parser = argparse.ArgumentParser(
             prog = 'Cipher text decrypter',
             description = 'Decrypt any cipher text to plain text using caesar cipher.',
-            epilog = 'Example: python decrypt.py -t cjuuv -k 1'
+            epilog = 'Example: python decrypt.py -c cjuuv -k 1'
         )
 
 parser.add_argument(
